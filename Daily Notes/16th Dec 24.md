@@ -1,11 +1,11 @@
 ## Tasks
 
- - [ ] Read (>20 mins)
- - [ ] Exercise
- - [ ] Write something
+ - [x] Read (>20 mins)
+ - [x] Exercise
+ - [x] Write something
  - [x] Start planning anniversary [[15th Dec 24]]
- - [ ] Download succession
- - [ ] Update Current Projects (check at end of day)
+ - [x] Download succession (didnt manage to do)
+ - [x] Update Current Projects (check at end of day)
  - [ ] (new)
 
 ## Notes
