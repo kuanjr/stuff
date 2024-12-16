@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12df5a982dd3ad19",
+            "id": "096c4b5de2e0c8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "096c4b5de2e0c8e9",
+            "id": "12df5a982dd3ad19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Random Access Memory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +178,10 @@
   },
   "active": "096c4b5de2e0c8e9",
   "lastOpenFiles": [
+    "Workspace/Random Access Memory.md",
     "Daily Notes/16th Dec 24.md",
     "Daily Notes/15th Dec 24.md",
     "Workspace/Go from Thinker to a Doer.md",
-    "Workspace/Random Access Memory.md",
     "Workspace/Current projects.md",
     "Templates/Daily Note Template.md",
     "o.md",

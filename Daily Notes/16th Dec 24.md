@@ -8,4 +8,4 @@
 
 ## Notes
 
-Lorem Ipsum
+Set up Obsidian sync via GIT
