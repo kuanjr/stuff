@@ -1,0 +1,4 @@
+- Finished business description
+- Todo:
+    - Make graphs for revenue and geog breakdown
+    - Write up competitive advantage

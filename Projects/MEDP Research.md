@@ -1,0 +1,1 @@
+- what are the demand factors; what factors will lead to an increase or decrease in their revenue

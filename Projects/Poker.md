@@ -1,0 +1,3 @@
+- Reading "The Course"
+- Went to some poker website
+- Watching a lot more poker videos now
