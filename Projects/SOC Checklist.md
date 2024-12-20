@@ -2,7 +2,16 @@ This one has to be built up slowly. I'm still learning how the soc works, so the
 
 
  - CTI
- - How to troubleshoot heartbeat missed
  - How to troubleshoot nxlog
  - How to triage sus alarms
  - Keep a log of manpower changes in Ur team
+
+#### How to troubleshoot heartbeat missed
+- [ ] 1. See if logs are coming in
+	- [ ] 1a. Check LR Web console
+	- [ ] 1b. Check LR Console
+	- [ ] 1c. Check LR SSH
+- [ ] 2. Check if nxlog agents are down
+- [ ] 3. Restart
+	- [ ] Collector Component down: Restart System Monitor Service
+	- [ ] Platform Manager Component down: Restart Alarming and Response Manager Service
