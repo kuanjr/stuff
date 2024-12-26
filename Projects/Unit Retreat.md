@@ -21,3 +21,8 @@ Questions
  - I was looking at last year's retreat, and I'm wondering why we need 2 days for the retreat? I guess im want you to shed some light on the direction of the retret. I know last year we had 2 ish sessions 1 for OC and above, and 1 for PC and above. Are 2 days required for everything we need to discuss?
  
  - I think the idea had going into the retreat was that it was a more informal event, with games and activities. But I learnt that last year's event was more focused on presentations and discussions, so we would like if you could shed some light on the direction that CO wants this year's retreat to go
+   
+   
+
+Alot of nonsense rn. Waiting for people to reply with number of pax to get a quotation
+

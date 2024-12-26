@@ -1,5 +1,5 @@
 #### to do
- - [ ] choose between 2 dinner places
+ - [x] choose between 2 dinner places
  - [ ] finding cafe spots (reddit post)
 #### date ideas
 [link 1](https://www.holidaysforcouples.travel/what-to-do-and-see-in-ho-chi-minh-city/)
@@ -11,6 +11,11 @@
  - Restaurants
  - Bar
  - Mekong Delta tour
+
+
+ - [ ]
+ - [x] jta;slekjta;se
+ - [ ] a;lkdjfa;lsdkf
 
 #### Itinerary (tentative)
 Morning
