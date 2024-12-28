@@ -26,3 +26,10 @@ Questions
 
 Alot of nonsense rn. Waiting for people to reply with number of pax to get a quotation
 
+ - Catering
+ - make sure aor is done
+ - Ask if S3 is doing the presentation
+ - slides
+ - 
+
+
